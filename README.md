@@ -1,7 +1,7 @@
 # filter_camera_application
 processing filter camera application
 
-# functionality
+#functionality
 1. saves images to folder with unique numbers 
 2. keeping track of file names in json file
 3. 5 filters
