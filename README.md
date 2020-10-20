@@ -20,6 +20,3 @@ bin-icon
 close-icon
 filters-icon
 
-# issues
-1. when hovering over filters full screen changes the color even the UI area which shouldn't happen
-2. application crashes sometimes when saving file image
